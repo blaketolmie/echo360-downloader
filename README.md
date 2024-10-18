@@ -2,7 +2,7 @@
 
 This script allows you to download all of your lecture recordings from the
 [Echo360](https://echo360.com/) website, without having to manually click on
-each download button separately.
+each download button separately. Also downloads both left and right screens!!
 
 ## Limitations
 
@@ -12,6 +12,7 @@ each download button separately.
   enabled. There is an experimental mode that you can use to attempt to bypass
   this restriction (see below for details), however I would recommend just
   emailing your lecturer nicely and asking them to enable downloads :)
+- Must have grouped together lectures (eg grouped by module) expanded
 
 ## Getting Started
 
